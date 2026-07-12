@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/IshanMaheshwari-777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+intelligence%2C+then+make+it+beautiful.;SDE+Intern+%40+DegreeBaba+%E2%80%94+shipping+AI+platforms+%F0%9F%A4%96;800%2B+DSA+problems+%E2%80%A2+600%2B+day+LeetCode+streak+%E2%9A%A1;Full-stack+TypeScript+%2B+Python+data+analytics+%F0%9F%93%8A" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=I+build+intelligence%2C+then+make+it+beautiful.;SDE+Intern+%40+DegreeBaba+%E2%80%94+shipping+AI+platforms+%F0%9F%A4%96;800%2B+DSA+problems+%E2%80%A2+600%2B+day+LeetCode+streak+%E2%9A%A1;Full-stack+TypeScript+%2B+Python+data+analytics+%F0%9F%93%8A" alt="Typing animation" />
 </a>
 
 <br/><br/>
