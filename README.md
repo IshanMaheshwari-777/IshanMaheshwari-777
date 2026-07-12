@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/ishan-maheshwari">
+<a href="https://www.linkedin.com/in/ishan-maheshwari-4b6154323/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://portfolio-dusky-delta-25.vercel.app">
