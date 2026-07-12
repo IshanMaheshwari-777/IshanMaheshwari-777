@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/IshanMaheshwari-777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+agents+%26+automation+workflows+%F0%9F%A4%96;Full-stack+TypeScript+%E2%80%94+Next.js%2C+React%2C+Node;Turning+data+into+decisions+with+Python+%F0%9F%93%8A;707%2B+LeetCode+problems+and+counting+%E2%9A%A1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+intelligence%2C+then+make+it+beautiful.;SDE+Intern+%40+DegreeBaba+%E2%80%94+shipping+AI+platforms+%F0%9F%A4%96;800%2B+DSA+problems+%E2%80%A2+600%2B+day+LeetCode+streak+%E2%9A%A1;Full-stack+TypeScript+%2B+Python+data+analytics+%F0%9F%93%8A" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://leetcode.com/u/ishanmaheshwari2004">
-  <img src="https://img.shields.io/badge/LeetCode-707%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-600%2B_day_streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 <a href="https://www.youtube.com/@IshanDecodes">
   <img src="https://img.shields.io/badge/YouTube-IshanDecodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -39,18 +39,37 @@
 
 ```typescript
 const ishan = {
+  tagline: "I build intelligence, then make it beautiful.",
+  currently: "SDE Intern @ DegreeBaba — building across AI platforms end-to-end",
   focus: ["AI Agents & Automation", "Full-Stack Engineering", "Data Analytics"],
-  building: "Visual AI workflow builders, agent pipelines & analytics dashboards",
   stack: {
-    ai: ["LLM orchestration", "Groq", "OpenAI", "Claude", "agentic workflows"],
+    ai: ["LLM orchestration", "Groq", "OpenAI", "Claude", "Gemini", "agentic workflows"],
     web: ["Next.js", "React", "TypeScript", "Node.js", "Prisma", "PostgreSQL"],
-    data: ["Python", "Pandas", "Jupyter", "Tableau"],
+    data: ["Python", "Pandas", "NumPy", "Matplotlib", "Jupyter", "Tableau"],
   },
-  education: "CS @ Newton School of Technology, Rishihood University",
-  leetcode: "707+ problems solved 🧩",
-  creating: "YouTube @IshanDecodes 🎥",
+  dsa: "800+ problems across LeetCode, Codeforces & more 🧩",
+  streak: "600+ day LeetCode streak 🔥",
+  education: "B.Tech CS @ Newton School of Technology, Rishihood University (CGPA 8.6)",
+  offScreen: ["YouTube @IshanDecodes 🎥", "University cricket team 🏏", "Neutron Fest organizer 🎪"],
 };
 ```
+
+<br/>
+
+## 💼 Experience
+
+### 🧑‍💻 Software Development Engineer Intern — DegreeBaba
+*June 2026 – Present · Pune / Remote*
+
+- Shipping features across **AI platforms end-to-end** — frontend, backend, database & deployment
+- Built an **AI-assisted content pipeline that cut processing costs by ~60%**
+- Building a cross-platform **CRM for internal operations**
+- Working **directly with founders** on product strategy and the technical roadmap
+
+### 🎥 Content Creator — [@IshanDecodes](https://www.youtube.com/@IshanDecodes)
+*June 2026 – Present*
+
+- Research-driven long-form videos on **business, tech, AI & branding** — scripted, produced and edited end-to-end
 
 <br/>
 
