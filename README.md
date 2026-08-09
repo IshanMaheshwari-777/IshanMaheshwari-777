@@ -5,12 +5,15 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/IshanMaheshwari-777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=I+build+intelligence%2C+then+make+it+beautiful.;SDE+Intern+%40+DegreeBaba+%E2%80%94+shipping+AI+platforms+%F0%9F%A4%96;800%2B+DSA+problems+%E2%80%A2+600%2B+day+LeetCode+streak+%E2%9A%A1;Full-stack+TypeScript+%2B+Python+data+analytics+%F0%9F%93%8A" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=I+build+intelligence%2C+then+make+it+beautiful.;SDE+Intern+%40+DegreeBaba+%E2%80%94+shipping+AI+platforms+%F0%9F%A4%96;800%2B+DSA+problems+%E2%80%A2+630%2B+day+LeetCode+streak+%E2%9A%A1;Full-stack+TypeScript+%2B+Python+data+analytics+%F0%9F%93%8A" alt="Typing animation" />
 </a>
 
 <br/><br/>
 
 <!-- Social badges -->
+<a href="https://freelance-portfolio-alpha-eight.vercel.app/">
+  <img src="https://img.shields.io/badge/Freelance-Hire_Me-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Hire Me"/>
+</a>
 <a href="https://www.linkedin.com/in/ishan-maheshwari-4b6154323/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -18,7 +21,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://leetcode.com/u/ishanmaheshwari2004">
-  <img src="https://img.shields.io/badge/LeetCode-600%2B_day_streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-630%2B_day_streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 <a href="https://www.youtube.com/@IshanDecodes">
   <img src="https://img.shields.io/badge/YouTube-IshanDecodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -48,8 +51,8 @@ const ishan = {
     data: ["Python", "Pandas", "NumPy", "Matplotlib", "Jupyter", "Tableau"],
   },
   dsa: "800+ problems across LeetCode, Codeforces & more 🧩",
-  streak: "600+ day LeetCode streak 🔥",
-  education: "B.Tech CS @ Newton School of Technology, Rishihood University (CGPA 8.6)",
+  streak: "630+ day LeetCode streak 🔥",
+  education: "B.Tech CS (3rd Year) @ Newton School of Technology, Rishihood University (CGPA 8.6)",
   offScreen: ["YouTube @IshanDecodes 🎥", "University cricket team 🏏", "Neutron Fest organizer 🎪"],
 };
 ```
@@ -63,7 +66,8 @@ const ishan = {
 
 - Shipping features across **AI platforms end-to-end** — frontend, backend, database & deployment
 - Built an **AI-assisted content pipeline that cut processing costs by ~60%**
-- Building a cross-platform **CRM for internal operations**
+- Built a cross-platform **CRM (web & mobile)** for internal operations
+- Shipped **12 production applications** — 9 public-facing, 3 internal — across AI-integrated platforms
 - Working **directly with founders** on product strategy and the technical roadmap
 
 ### 🎥 Content Creator — [@IshanDecodes](https://www.youtube.com/@IshanDecodes)
@@ -147,6 +151,8 @@ const ishan = {
 <div align="center">
 
 🌐 Plus my [**Portfolio**](https://github.com/IshanMaheshwari-777/Portfolio) — glassmorphism UI, particle background & Framer Motion → [**see it live**](https://portfolio-dusky-delta-25.vercel.app)
+
+💼 **Open for freelance work** — check out [**freelance-portfolio-alpha-eight.vercel.app**](https://freelance-portfolio-alpha-eight.vercel.app/) and get in touch if you've got a project
 
 </div>
 
