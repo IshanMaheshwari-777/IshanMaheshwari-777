@@ -156,8 +156,8 @@ const ishan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IshanMaheshwari-777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&ring_color=8b5cf6" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshanMaheshwari-777&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IshanMaheshwari-777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&ring_color=8b5cf6" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMaheshwari-777&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="170" alt="Top languages"/>
 
 <br/><br/>
 
