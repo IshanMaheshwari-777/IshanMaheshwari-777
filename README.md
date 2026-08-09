@@ -10,10 +10,14 @@
 
 <br/><br/>
 
-<!-- Social badges -->
+<!-- Freelance CTA -->
 <a href="https://freelance-portfolio-alpha-eight.vercel.app/">
-  <img src="https://img.shields.io/badge/Freelance-Hire_Me-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Hire Me"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:059669&height=55&text=%F0%9F%92%BC%20Open%20for%20Freelance%20Work%20%E2%80%94%20Let%27s%20Build%20Something&fontSize=18&fontColor=ffffff&fontAlignY=60" width="60%" alt="Open for Freelance Work"/>
 </a>
+
+<br/><br/>
+
+<!-- Social badges -->
 <a href="https://www.linkedin.com/in/ishan-maheshwari-4b6154323/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
