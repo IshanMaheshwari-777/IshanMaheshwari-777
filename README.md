@@ -197,12 +197,9 @@ const ishan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshanMaheshwari-777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&ring_color=8b5cf6" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMaheshwari-777&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="170" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=IshanMaheshwari-777&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4" height="170" alt="GitHub streak"/>
+<img src="https://img.shields.io/github/followers/IshanMaheshwari-777?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshanMaheshwari-777&label=Repos&query=%24.public_repos&style=for-the-badge&color=3b82f6&logo=github&logoColor=white" alt="Public repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3AIshanMaheshwari-777%2Btype%3Apr&label=Pull%20Requests&query=%24.total_count&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" alt="Pull requests"/>
 
 <br/><br/>
 
