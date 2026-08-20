@@ -8,7 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=I+build+intelligence%2C+then+make+it+beautiful.;SDE+Intern+%40+DegreeBaba+%E2%80%94+shipping+AI+platforms+%F0%9F%A4%96;800%2B+DSA+problems+%E2%80%A2+630%2B+day+LeetCode+streak+%E2%9A%A1;Full-stack+TypeScript+%2B+Python+data+analytics+%F0%9F%93%8A" alt="Typing animation" />
 </a>
 
-<br/><br/>
+<br/>
+
+<p align="center">
+  <a href="#about"><b>About</b></a> •
+  <a href="#experience"><b>Experience</b></a> •
+  <a href="#skills"><b>Skills</b></a> •
+  <a href="#projects"><b>Projects</b></a> •
+  <a href="#stats"><b>Stats</b></a> •
+  <a href="#contact"><b>Contact</b></a>
+</p>
+
+<br/>
 
 <!-- Freelance CTA -->
 <a href="https://freelance-portfolio-alpha-eight.vercel.app/">
@@ -16,6 +27,8 @@
 </a>
 
 <br/><br/>
+
+<a name="contact"></a>
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/ishan-maheshwari-4b6154323/">
@@ -42,6 +55,8 @@
 
 <br/>
 
+<a name="about"></a>
+
 ## 🤖 What I Do
 
 ```typescript
@@ -63,6 +78,8 @@ const ishan = {
 
 <br/>
 
+<a name="experience"></a>
+
 ## 💼 Experience
 
 ### 🧑‍💻 Software Development Engineer Intern — DegreeBaba
@@ -80,6 +97,8 @@ const ishan = {
 - Research-driven long-form videos on **business, tech, AI & branding** — scripted, produced and edited end-to-end
 
 <br/>
+
+<a name="skills"></a>
 
 ## ⚙️ Tech Arsenal
 
@@ -107,6 +126,8 @@ const ishan = {
 
 <br/>
 
+<a name="projects"></a>
+
 ## 🚀 Featured Builds
 
 <table>
@@ -119,6 +140,8 @@ const ishan = {
 
 `Next.js 16` `React 19` `TypeScript` `Groq` `Trigger.dev` `Prisma` `PostgreSQL`
 
+![Stars](https://img.shields.io/github/stars/IshanMaheshwari-777/NextFlow?style=flat-square&color=8b5cf6&labelColor=1a1b27) ![Forks](https://img.shields.io/github/forks/IshanMaheshwari-777/NextFlow?style=flat-square&color=3b82f6&labelColor=1a1b27)
+
 </td>
 <td width="50%" valign="top">
 
@@ -127,6 +150,8 @@ const ishan = {
 **Campus lost & found platform.** Public item browsing, JWT-secured reporting with image uploads, smart location suggestions from historical data, and a personal item dashboard. Production-ready and mobile-first.
 
 `Next.js` `Express` `MongoDB` `Cloudinary` `Zustand` `Tailwind`
+
+![Stars](https://img.shields.io/github/stars/IshanMaheshwari-777/DropZone?style=flat-square&color=8b5cf6&labelColor=1a1b27) ![Forks](https://img.shields.io/github/forks/IshanMaheshwari-777/DropZone?style=flat-square&color=3b82f6&labelColor=1a1b27)
 
 </td>
 </tr>
@@ -139,6 +164,8 @@ const ishan = {
 
 `Python` `Jupyter` `Tableau` `EDA`
 
+![Stars](https://img.shields.io/github/stars/IshanMaheshwari-777/E_G2_OlistDelayLens?style=flat-square&color=8b5cf6&labelColor=1a1b27) ![Forks](https://img.shields.io/github/forks/IshanMaheshwari-777/E_G2_OlistDelayLens?style=flat-square&color=3b82f6&labelColor=1a1b27)
+
 </td>
 <td width="50%" valign="top">
 
@@ -147,6 +174,8 @@ const ishan = {
 **Data-driven accident insights.** Analysis pipeline uncovering which factors drive road-accident severity — feature exploration, statistical breakdowns, and visual storytelling.
 
 `Python` `Pandas` `Data Analysis`
+
+![Stars](https://img.shields.io/github/stars/IshanMaheshwari-777/Data-Driven-Analysis-of-Road-Traffic-Accident-Severity?style=flat-square&color=8b5cf6&labelColor=1a1b27) ![Forks](https://img.shields.io/github/forks/IshanMaheshwari-777/Data-Driven-Analysis-of-Road-Traffic-Accident-Severity?style=flat-square&color=3b82f6&labelColor=1a1b27)
 
 </td>
 </tr>
@@ -161,6 +190,8 @@ const ishan = {
 </div>
 
 <br/>
+
+<a name="stats"></a>
 
 ## 📊 By the Numbers
 
