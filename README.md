@@ -179,10 +179,6 @@ const ishan = {
   <img src="https://leetcard.jacoblin.cool/ishanmaheshwari2004?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats"/>
 </a>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanMaheshwari-777&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a78bfa&line=8b5cf6&point=06b6d4&area=true" width="95%" alt="Contribution graph"/>
-
 </div>
 
 <br/>
