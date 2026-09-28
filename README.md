@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://leetcode.com/u/ishanmaheshwari2004">
-  <img src="https://img.shields.io/badge/LeetCode-630%2B_day_streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-700%2B_day_streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 <a href="https://www.youtube.com/@IshanDecodes">
   <img src="https://img.shields.io/badge/YouTube-IshanDecodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
